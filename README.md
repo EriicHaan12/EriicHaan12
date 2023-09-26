@@ -22,6 +22,6 @@ Here are some ideas to get you started:
     <title>Document</title>
 </head>
 <body>
-    <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 </body>
 </html>
