@@ -35,6 +35,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black"/>
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=White"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
      
     
         
