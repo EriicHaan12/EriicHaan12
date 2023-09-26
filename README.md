@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EriicHaan12)](https://github.com/anuraghazra/github-readme-stats)    
 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
     <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>  
@@ -33,4 +41,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
     </div>
+</body>
+</html>
+
 
