@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 </head>
 <body>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-        <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EriicHaan12)](https://github.com/anuraghazra/github-readme-stats)    
+    
+    <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
