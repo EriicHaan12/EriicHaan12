@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black"/>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=oracle&logoColor=black"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=black"/>
     
         
         
