@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EriicHaan12)](https://github.com/anuraghazra/github-readme-stats)    
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EriicHaan12)](https://github.com/anuraghazra/github-readme-stats)    
+   
     
     <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
