@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-    flat&logo
-    <div>
+        <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -34,16 +31,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
+            <br/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black"/>
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=White"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
-     
-    
-        
-        
-        
     </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
     
 </body>
 </html>
