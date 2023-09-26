@@ -22,8 +22,10 @@ Here are some ideas to get you started:
     <title>Document</title>
 </head>
 <body>
+    <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>  
+    </div>
+    
 </body>
 </html>
